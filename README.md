@@ -6,6 +6,8 @@ A comprehensive collection of Ruby scripts demonstrating web scraping techniques
 
 Nokogiri is a powerful Ruby gem for parsing and searching XML and HTML documents. This repository contains practical examples that cover everything from basic HTML parsing to advanced web scraping techniques. Whether you're new to web scraping or looking to refine your skills, these examples provide a solid foundation.
 
+![alt text](image-1.png)
+
 ![alt text](<image.png>)
 
 ## Repository Contents
