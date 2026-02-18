@@ -1,14 +1,26 @@
-# Nokogiri Web Scraping - Learning Repository
+# NokogiriExplore - Interactive CLI for Surgical Data Extraction
 
-A comprehensive collection of Ruby scripts demonstrating web scraping techniques using the Nokogiri gem. This repository provides hands-on examples for parsing HTML/XML documents, navigating the DOM, extracting data, and scraping real websites.
+A terminal-based laboratory for DOM forensics.
+
+NokogiriExplore is a menu-driven CLI engine designed to dissect web pages, reverse-engineer HTML structures, and harvest data with precision using XPath and CSS selectors.
+
+Unlike standard scraping scripts, this utility acts as a structural analysis tool, allowing you to test selectors against live targets, navigate complex DOM trees, and automate extraction workflows directly from the terminal.
 
 ## Overview
 
-Nokogiri is a powerful Ruby gem for parsing and searching XML and HTML documents. This repository contains practical examples that cover everything from basic HTML parsing to advanced web scraping techniques. Whether you're new to web scraping or looking to refine your skills, these examples provide a solid foundation.
+Powered by the robust Nokogiri gem, this tool provides a hands-on environment for:
 
-![alt text](image-1.png)
+* DOM Dissection: Parse and traverse HTML/XML documents to understand underlying page architecture.
 
-![alt text](<image.png>)
+* Precision Targeting: Test and refine complex XPath and CSS selectors in real-time.
+
+* Live Reconnaissance: execute controlled extraction against real-world targets (e-commerce sites, news aggregators) to identify data patterns.
+
+* Data Harvesting: Automate the retrieval of structured data, handling everything from basic nodes to nested attributes.
+
+![alt text](<cli-main-menu.png>)
+
+![alt text](<data-extraction-demo.png>)
 
 ## Repository Contents
 
