@@ -1,4 +1,4 @@
-# NokogiriExplore - Interactive CLI for Surgical Data Extraction
+# NokogiriExplore - Interactive CLI Utility for Surgical Data Extraction
 
 A terminal-based laboratory for DOM forensics.
 
